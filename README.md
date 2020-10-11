@@ -1,4 +1,12 @@
 # SalesForce-DevHub
+This project has various TrailHead soulutions and small projects that I've been working on.
+Main emphasis is given to Lightning Web Components and Apex classes.
+To use this in your Developer Org simply deploy the components/ classes you need to use.
+
+### Alert: As this project is linked with my Developer Org, do not blindly deploy the objects, approval processes, or such user specific parts without changing it to your user name, else you'll get errors while deploying. 
+
+
+## >> Follow the steps if you are new to force.com platform
 
 ## Salesforce App
 
